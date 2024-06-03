@@ -2,8 +2,6 @@
   "name": "template-solidity-project-hardhat",
   "version": "0.1.0",
   "main": "index.js",
-  "repository": "https://github.com/IntelMin/template-solidity-project-hardhat.git",
-  "author": "IntelMin <intelmin0915@gmail.com>",
   "license": "MIT",
   "scripts": {
     "compile": "npx hardhat compile",
